@@ -16,3 +16,4 @@ Herhangi bir maliyet çıkmaması için Free-Tier katmanında yapılmıştır.
 ![](explanation_1.png)
 ![](explanation_2.png)
 ![](explanation_3.png)
+![](AWS-Rekognition-Nesne-Tanima-Projesi.drawio.png)
