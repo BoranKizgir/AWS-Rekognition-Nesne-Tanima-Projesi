@@ -1,4 +1,4 @@
-# AWS-Rekognition---Nesne-Tan-ma-Projesi
+# AWS-Rekognition-Nesne-Tanima-Projesi
 
 
 Bu proje, AWS S3'e yüklenen görselleri AWS Lambda ve Amazon Rekognition kullanarak otomatik olarak analiz eder.
