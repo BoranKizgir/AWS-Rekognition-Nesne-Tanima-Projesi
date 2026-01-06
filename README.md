@@ -1,8 +1,5 @@
 # AWS-Rekognition-Nesne-Tanima-Projesi
 
-
-Bu proje, AWS S3'e yüklenen görselleri AWS Lambda ve Amazon Rekognition kullanarak otomatik olarak analiz eder.
-
 ## Mimari
 1. Kullanıcı S3 Bucket'ına bir görsel yükler.
 2. S3 "ObjectCreated" olayı Lambda fonksiyonunu tetikler.
