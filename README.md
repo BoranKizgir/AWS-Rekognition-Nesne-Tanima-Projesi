@@ -14,3 +14,7 @@ Bu proje, AWS S3'e yüklenen görselleri AWS Lambda ve Amazon Rekognition kullan
 - **AWS Lambda:** Serverless işleme.
 - **Amazon Rekognition:** Derin öğrenme tabanlı nesne tanıma.
 - **IAM:** Yetkilendirme ve roller.
+
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
