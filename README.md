@@ -15,6 +15,7 @@ Bu proje, AWS S3'e yüklenen görselleri AWS Lambda ve Amazon Rekognition kullan
 - **Amazon Rekognition:** Derin öğrenme tabanlı nesne tanıma.
 - **IAM:** Yetkilendirme ve roller.
 
+Herhangi bir maliyet çıkmaması için Free-Tier katmanında yapılmıştır.
 ![](explanation_1.png)
 ![](explanation_2.png)
 ![](explanation_3.png)
